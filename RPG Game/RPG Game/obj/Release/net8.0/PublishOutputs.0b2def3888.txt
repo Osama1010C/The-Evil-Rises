@@ -1,0 +1,5 @@
+C:\Osama_Code\.Net\C#\Projects\Small Projects\RPG Game\RPG Game\bin\Release\net8.0\app.publish\RPG Game.exe
+C:\Osama_Code\.Net\C#\Projects\Small Projects\RPG Game\RPG Game\bin\Release\net8.0\app.publish\RPG Game.dll
+C:\Osama_Code\.Net\C#\Projects\Small Projects\RPG Game\RPG Game\bin\Release\net8.0\app.publish\RPG Game.deps.json
+C:\Osama_Code\.Net\C#\Projects\Small Projects\RPG Game\RPG Game\bin\Release\net8.0\app.publish\RPG Game.runtimeconfig.json
+C:\Osama_Code\.Net\C#\Projects\Small Projects\RPG Game\RPG Game\bin\Release\net8.0\app.publish\RPG Game.pdb

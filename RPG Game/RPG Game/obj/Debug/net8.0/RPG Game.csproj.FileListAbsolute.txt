@@ -1,0 +1,14 @@
+C:\Osama_Code\.Net\C#\Projects\Small Projects\RPG Game\RPG Game\bin\Debug\net8.0\RPG Game.exe
+C:\Osama_Code\.Net\C#\Projects\Small Projects\RPG Game\RPG Game\bin\Debug\net8.0\RPG Game.deps.json
+C:\Osama_Code\.Net\C#\Projects\Small Projects\RPG Game\RPG Game\bin\Debug\net8.0\RPG Game.runtimeconfig.json
+C:\Osama_Code\.Net\C#\Projects\Small Projects\RPG Game\RPG Game\bin\Debug\net8.0\RPG Game.dll
+C:\Osama_Code\.Net\C#\Projects\Small Projects\RPG Game\RPG Game\bin\Debug\net8.0\RPG Game.pdb
+C:\Osama_Code\.Net\C#\Projects\Small Projects\RPG Game\RPG Game\obj\Debug\net8.0\RPG Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Osama_Code\.Net\C#\Projects\Small Projects\RPG Game\RPG Game\obj\Debug\net8.0\RPG Game.AssemblyInfoInputs.cache
+C:\Osama_Code\.Net\C#\Projects\Small Projects\RPG Game\RPG Game\obj\Debug\net8.0\RPG Game.AssemblyInfo.cs
+C:\Osama_Code\.Net\C#\Projects\Small Projects\RPG Game\RPG Game\obj\Debug\net8.0\RPG Game.csproj.CoreCompileInputs.cache
+C:\Osama_Code\.Net\C#\Projects\Small Projects\RPG Game\RPG Game\obj\Debug\net8.0\RPG Game.dll
+C:\Osama_Code\.Net\C#\Projects\Small Projects\RPG Game\RPG Game\obj\Debug\net8.0\refint\RPG Game.dll
+C:\Osama_Code\.Net\C#\Projects\Small Projects\RPG Game\RPG Game\obj\Debug\net8.0\RPG Game.pdb
+C:\Osama_Code\.Net\C#\Projects\Small Projects\RPG Game\RPG Game\obj\Debug\net8.0\RPG Game.genruntimeconfig.cache
+C:\Osama_Code\.Net\C#\Projects\Small Projects\RPG Game\RPG Game\obj\Debug\net8.0\ref\RPG Game.dll
