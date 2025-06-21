@@ -1,0 +1,8 @@
+# Ignore these folders
+Properties/
+bin/
+obj/
+
+# Ignore these files
+RPG Game.csproj
+RPG Game.csproj.user
