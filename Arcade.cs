@@ -93,7 +93,6 @@ namespace RPG_Game
                 {
 
                     Console.Write("1) Attack \t2) Heal \n\n: ");
-
                     while (true)
                     {
                         try
