@@ -69,7 +69,7 @@ Once you've proven your strength by reaching **Level 4**, you unlock **Arcade Mo
 
 ## 🧠 Credits & Notes
 
-- Developed by **[Your Name]**
+- Developed by **[Me]**
 - Inspired by classic RPG mechanics
 - Built using **.NET Console Application**
 
