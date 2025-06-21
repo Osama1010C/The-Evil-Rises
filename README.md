@@ -76,5 +76,8 @@ Once you've proven your strength by reaching **Level 4**, you unlock **Arcade Mo
 ---
 
 ### 🔥 Get ready to begin your journey, hero. The world needs saving!
+# 🚨 PLAY NOW ON ITCH.IO! 🚨  
+### 🧙‍♂️ Begin Your Epic Adventure in the Terminal RPG of Legends  
+➡️ [🎮 Click Here to Play on Itch.io](https://osama-ahmed-s.itch.io/the-evil-rises) ⬅️  
+Face devils, survive endless waves, and carve your name in the Hall of Heroes!
 
-[🎮 Play on Itch.io](https://osama-ahmed-s.itch.io/the-evil-rises)
